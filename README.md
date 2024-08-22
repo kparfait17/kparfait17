@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello all! 👋
 
-🌱 I'm currently beginning my MSCS at Tulane.
+- 🌱 I'm currently beginning my MSCS at Tulane.
 
-I'm a software engineer at SAIC and an analyst in the Army.
+- ⚡ I'm a software engineer at SAIC and an analyst in the Army.
 
 <!--
 **kparfait17/kparfait17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
