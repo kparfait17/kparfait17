@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm currently beginning my MSCS at Tulane.
+🌱 I'm currently beginning my MSCS at Tulane.
+
 I'm a software engineer at SAIC and an analyst in the Army.
 
 <!--
